@@ -9,5 +9,8 @@ Gradually, I focused on user experience, bringing my attention from **how** thin
 
 My mission is to help creating interactions that serve people best, through careful research and design.
 
-- 🔭 **I’m currently working on**: migrating my website from WordPress to Jekyll.
-- 😄 **Pronouns**: she/her
+---
+
+🔭 **I’m currently working on**: migrating my website from WordPress to Jekyll.
+
+😄 **Pronouns**: she/her
