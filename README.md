@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
+  <h1><img src="assets/smd-logo.png" alt="Silvia Maggi Design" width="260" height="156"></h1>
+</div>
 
-<!--
-**silviamaggi/silviamaggi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
 
-Here are some ideas to get you started:
+I started my career as web designer and developer, wanting to build intuitive, usable and accessible interfaces.
+Gradually, I focused on user experience, bringing my attention from **how** things work to **why**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My mission is to help creating interactions that serve people best, through careful research and design.
+
+- 🔭 **I’m currently working on**: migrating my website from WordPress to Jekyll.
+- 😄 **Pronouns**: she/her
