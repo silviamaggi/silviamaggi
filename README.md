@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><img src="assets/silviamaggi-logo.jpg" alt="Silvia Maggi Design" width="400" height="400"></h1>
+  <h1><img src="assets/silviamaggi-logo.jpg" alt="Silvia Maggi Design" width="200" height="200"></h1>
 </div>
 
 ## Hi there 👋
