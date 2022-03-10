@@ -4,13 +4,12 @@
 
 # Hi, I'm Silvia 👋
 
-I started my career as web designer and developer, wanting to build intuitive, usable and accessible interfaces.
-Gradually, I focused on user experience, bringing my attention from **how** things work to **why**.
+I started my career as a **designer and developer** focussing on *usability, accessibility and information architecture*. For nine years, I lived in the UK, where I co-founded the web agency UI Farm and worked for clients spanning several industries, such as **banking, retail and energy**.
 
-My mission is to help creating interactions that serve people best, through careful research and design.
+My mission is to create meaningful interactions that serve people and businesses best, through considerate, research-based design. I offer **UX consultancy** (problem-finding, research-based prototypes), **design and development** of apps and websites.
+
+😄 **Pronouns**: she/her
 
 ---
 
-🔭 **I’m currently working on**: migrating my website from WordPress to Jekyll.
-
-😄 **Pronouns**: she/her
+🔭 **I’m currently working on**: a HowTo website with tips and snippets to help designers interested in coding.
