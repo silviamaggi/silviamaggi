@@ -4,9 +4,11 @@
 
 # Hi, I'm Silvia 👋
 
-I started my career as a **designer and developer** focussing on *usability, accessibility and information architecture*. For nine years, I lived in the UK, where I co-founded the web agency UI Farm and worked for clients spanning several industries, such as **banking, retail and energy**.
+A web designer and developer focused on _usability, accessibility and information architecture_.
 
-My mission is to create meaningful interactions that serve people and businesses best, through considerate, research-based design. I offer **UX consultancy** (problem-finding, research-based prototypes), **design and development** of apps and websites.
+An expert in HTML, CSS and designing with web standards since 2004, I make websites using Jekyll and WordPress. Curator of the inspiration series _Design, Digested_. Photography is my life-long passion. 
+
+For nine years I lived in the UK, where I co-founded the web agency UI Farm and worked for clients spanning several industries, such as banking, retail and energy.
 
 😄 **Pronouns**: she/her
 
