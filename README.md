@@ -4,8 +4,6 @@
 
 # Hi, I'm Silvia 👋
 
-A web designer and developer focused on _usability, accessibility and information architecture_.
-
 An expert in HTML, CSS and designing with web standards since 2004, I make websites using Jekyll and WordPress. Curator of the inspiration series _Design, Digested_. Photography is my life-long passion. 
 
 For nine years I lived in the UK, where I co-founded the web agency UI Farm and worked for clients spanning several industries, such as banking, retail and energy.
